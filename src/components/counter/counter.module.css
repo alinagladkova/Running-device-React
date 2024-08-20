@@ -1,0 +1,10 @@
+.counter {
+  background-color: #222947;
+  border-radius: 10px;
+  padding: 5px;
+  margin-bottom: 3px;
+}
+
+.counter__distance {
+  color: grey;
+}

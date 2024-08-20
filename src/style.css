@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  margin-top: 10px;
+  margin-left: 20px;
+  background-color: rgb(146, 166, 202);
+  color: #eca92d;
+}
+
+.btn {
+  cursor: pointer;
+  font-size: 18px;
+  padding: 5px 13px;
+  color: #ecdf2d;
+  border: 1px solid #eca92d;
+  border-radius: 5px;
+  background-color: #222947;
+  box-shadow: 2px 2px 5px #eca92d;
+}
+
+.btn:hover {
+  background-color: #ecdf2d;
+  color: #222947;
+}
