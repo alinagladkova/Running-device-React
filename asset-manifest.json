@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Running-device-React/static/css/main.7126528c.css",
+    "main.js": "/Running-device-React/static/js/main.d999bd4b.js",
+    "index.html": "/Running-device-React/index.html",
+    "main.7126528c.css.map": "/Running-device-React/static/css/main.7126528c.css.map",
+    "main.d999bd4b.js.map": "/Running-device-React/static/js/main.d999bd4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7126528c.css",
+    "static/js/main.d999bd4b.js"
+  ]
+}
